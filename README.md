@@ -1,2 +1,3 @@
-# trab-lab-bd
-Trabalho de Laboratório de Banco de Dados
+# README #
+
+Sistema desenvolvido para a disciplina de Laboratório de Banco de Dados na Fatec ZL - Noite.
